@@ -1,5 +1,8 @@
 <h1 align="center">Custom Maze Generation (with Animation!)</h1>
 <p align="center">
+	<img src="assets/maze.gif" width=30% width=30%/>
+</p>
+<p align="center">
 	<img src="https://img.shields.io/github/license/LeeSinLiang/Custom-Maze-Generation-Animation.svg?style=flat-square" alt="license"/>
 	<img alt="Code language count" src="https://img.shields.io/github/languages/count/LeeSinLiang/Custom-Maze-Generation-Animation?color=blue&style=flat-square" />
 	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/LeeSinLiang/Custom-Maze-Generation-Animation?color=blue&style=flat-square" />
