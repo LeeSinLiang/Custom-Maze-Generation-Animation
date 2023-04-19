@@ -2,7 +2,7 @@
 <p align="center" style="margin-bottom: 2px;">
 	<img src="assets/maze.gif" width=30% width=30%/>
 </p>
-<p align="center" style="margin-top:0px;">Figure 1: Maze Generation with DFS Shortest Path Finder</p>
+<p align="center" style="margin-top:0px;">Figure 1: Maze Generation with DFS Shortest Path Finder (Speed up 2x)</p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/LeeSinLiang/Custom-Maze-Generation-Animation.svg?style=flat-square" alt="license"/>
 	<img alt="Code language count" src="https://img.shields.io/github/languages/count/LeeSinLiang/Custom-Maze-Generation-Animation?color=blue&style=flat-square" />
@@ -24,3 +24,5 @@
  - [p5.js by TheCodingTrain](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
  - [p5.js Official Website](https://p5js.org/)
 
+## Original Demo (Non speed up)
+maze_generation/assets/maze_original.mp4
