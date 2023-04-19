@@ -25,4 +25,4 @@
  - [p5.js Official Website](https://p5js.org/)
 
 ## Original Demo (Non speed up)
-maze_generation/assets/maze_original.mp4
+[maze_generation/assets/maze_original.mp4](https://user-images.githubusercontent.com/38833175/233031677-5f56f0b1-7a85-4386-97bd-e60141013b8c.mp4)
